@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/seung-hwan-baek/</link>
+    <description>Recent content on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/seung-hwan-baek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compact Snapshot Hyperspectral Imaging with Diffracted Rotation</title>
+      <link>https://fuqiangx.github.io/publication/jeon2019hyperspectral/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/jeon2019hyperspectral/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt; @Article{HyperspectralDOE:SIG:2019,
+  author  = {Daniel S. Jeon and Seung-Hwan Baek and Shinyoung Yi and Qiang Fu 
+             and Xiong Dun and Wolfgang Heidrich and Min H. Kim},
+  title   = {Compact Snapshot Hyperspectral Imaging with Diffracted Rotation},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH 2019)},
+  year    = {2019},
+  volume  = {38},
+  number  = {4},
+  pages   = {117:1--13},
+  doi     = &amp;quot;10.1145/3306346.3322946&amp;quot;,
+  url     = &amp;quot;https://doi.org/10.1145/3306346.3322946&amp;quot;,
+  }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM 2019, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/seung-hwan-baek/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/seung-hwan-baek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

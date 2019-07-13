@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Reality on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/tags/virtual-reality/</link>
+    <description>Recent content in Virtual Reality on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A model for classical wavefront sensors and snapshot incoherent wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/wang2019model/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/wang2019model/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{wang2019model,
+  title={A model for classical wavefront sensors and snapshot incoherent wavefront sensing},
+  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+  booktitle={Computational Optical Sensing and Imaging},
+  pages={CM1A--4},
+  year={2019},
+  organization={Optical Society of America}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; OSA 2019, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A shared augmented virtual environment for real‐time mixed reality applications</title>
+      <link>https://fuqiangx.github.io/publication/zhu2019shared/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhu2019shared/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{zhu2018shared,
+  title={A shared augmented virtual environment for real-time mixed reality applications},
+  author={Zhu, Yu and Li, Shiying and Luo, Xi and Zhu, Kang and Fu, Qiang and Chen, Xilin and Gong, Huixing and Yu, Jingyi},
+  journal={Computer Animation and Virtual Worlds},
+  volume={29},
+  number={5},
+  pages={e1805},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; Wiley 2018, reproduced here by permission of Wiley for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAVE: shared augmented virtual environment for real-time mixed reality applications</title>
+      <link>https://fuqiangx.github.io/publication/zhu2016save/</link>
+      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhu2016save/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{zhu2016save,
+  title={SAVE: shared augmented virtual environment for real-time mixed reality applications},
+  author={Zhu, Yu and Zhu, Kang and Fu, Qiang and Chen, Xilin and Gong, Huixing and Yu, Jingyi},
+  booktitle={Proceedings of the 15th ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry-Volume 1},
+  pages={13--21},
+  year={2016},
+  organization={ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM 2016, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

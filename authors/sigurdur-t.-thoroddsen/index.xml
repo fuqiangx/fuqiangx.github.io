@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/sigurdur-t.-thoroddsen/</link>
+    <description>Recent content on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/sigurdur-t.-thoroddsen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging</title>
+      <link>https://fuqiangx.github.io/publication/xiong2017rainbowpiv/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/xiong2017rainbowpiv/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/HYs9dMxqJf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{xiong2017rainbow,
+  title={Rainbow particle imaging velocimetry for dense 3D fluid velocity imaging},
+  author={Xiong, Jinhui and Idoughi, Ramzi and Aguirre-Pablo, Andres A and Aljedaani, Abdulrahman B and Dun, Xiong and Fu, Qiang and Thoroddsen, Sigurdur T and Heidrich, Wolfgang},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={36},
+  number={4},
+  pages={36},
+  year={2017},
+  publisher={ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM 2017, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/sigurdur-t.-thoroddsen/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/sigurdur-t.-thoroddsen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

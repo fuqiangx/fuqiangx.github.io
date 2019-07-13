@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuochen Su on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/shuochen-su/</link>
+    <description>Recent content in Shuochen Su on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 11 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/shuochen-su/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ultra-High Resolution Coded Wavefront Sensor</title>
+      <link>https://fuqiangx.github.io/publication/peng2015computational/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/peng2015computational/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{peng2015computational,
+  title={Computational imaging using lightweight diffractive-refractive optics},
+  author={Peng, Yifan and Fu, Qiang and Amata, Hadi and Su, Shuochen and Heide, Felix and Heidrich, Wolfgang},
+  journal={Optics express},
+  volume={23},
+  number={24},
+  pages={31393--31407},
+  year={2015},
+  publisher={Optical Society of America}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; OSA 2015, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

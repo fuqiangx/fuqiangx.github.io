@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Luo on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/xi-luo/</link>
+    <description>Recent content in Xi Luo on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/xi-luo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A shared augmented virtual environment for real‐time mixed reality applications</title>
+      <link>https://fuqiangx.github.io/publication/zhu2019shared/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhu2019shared/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{zhu2018shared,
+  title={A shared augmented virtual environment for real-time mixed reality applications},
+  author={Zhu, Yu and Li, Shiying and Luo, Xi and Zhu, Kang and Fu, Qiang and Chen, Xilin and Gong, Huixing and Yu, Jingyi},
+  journal={Computer Animation and Virtual Worlds},
+  volume={29},
+  number={5},
+  pages={e1805},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; Wiley 2018, reproduced here by permission of Wiley for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

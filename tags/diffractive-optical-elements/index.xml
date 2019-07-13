@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diffractive Optical Elements on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/tags/diffractive-optical-elements/</link>
+    <description>Recent content in Diffractive Optical Elements on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/tags/diffractive-optical-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconfigurable Rainbow PIV for 3D Flow Measurement</title>
+      <link>https://fuqiangx.github.io/publication/xiong2018reconfigurable/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/xiong2018reconfigurable/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{xiong2018reconfigurable,
+  title={Reconfigurable rainbow PIV for 3D flow measurement},
+  author={Xiong, Jinhui and Fu, Qiang and Idoughi, Ramzi and Heidrich, Wolfgang},
+  booktitle={2018 IEEE International Conference on Computational Photography (ICCP)},
+  pages={1--9},
+  year={2018},
+  organization={IEEE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; IEEE 2018, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging</title>
+      <link>https://fuqiangx.github.io/publication/xiong2017rainbowpiv/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/xiong2017rainbowpiv/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/HYs9dMxqJf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{xiong2017rainbow,
+  title={Rainbow particle imaging velocimetry for dense 3D fluid velocity imaging},
+  author={Xiong, Jinhui and Idoughi, Ramzi and Aguirre-Pablo, Andres A and Aljedaani, Abdulrahman B and Dun, Xiong and Fu, Qiang and Thoroddsen, Sigurdur T and Heidrich, Wolfgang},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={36},
+  number={4},
+  pages={36},
+  year={2017},
+  publisher={ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM 2017, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beam shaping for multicolour light-emitting diodes with diffractive optical elements</title>
+      <link>https://fuqiangx.github.io/publication/yu2016beam/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/yu2016beam/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{yu2017beam,
+  title={Beam shaping for multicolour light-emitting diodes with diffractive optical elements},
+  author={Yu, Chao and Peng, Yifan and Guo, Tianyi and Fu, Qiang and Li, Haifeng and Liu, Xu},
+  journal={Journal of Modern Optics},
+  volume={64},
+  number={4},
+  pages={388--395},
+  year={2017},
+  publisher={Taylor \&amp;amp; Francis}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; Taylor &amp;amp; Francis 2016, reproduced here by permission of Taylor &amp;amp; Francis for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Encoded diffractive optics for full-spectrum computational imaging</title>
+      <link>https://fuqiangx.github.io/publication/heide2016encoded/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/heide2016encoded/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{heide2016encoded,
+  title={Encoded diffractive optics for full-spectrum computational imaging},
+  author={Heide, Felix and Fu, Qiang and Peng, Yifan and Heidrich, Wolfgang},
+  journal={Scientific reports},
+  volume={6},
+  pages={33543},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; OSA 2017, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The diffractive achromat: full spectrum computational imaging with diffractive optics</title>
+      <link>https://fuqiangx.github.io/publication/peng2016achromat/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/peng2016achromat/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/162421751&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2018megapixel,
+  title={Megapixel adaptive optics: towards correcting large-scale distortions in computational cameras},
+  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={37},
+  number={4},
+  pages={115},
+  year={2018},
+  publisher={ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM 2016, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-High Resolution Coded Wavefront Sensor</title>
+      <link>https://fuqiangx.github.io/publication/peng2015computational/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/peng2015computational/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{peng2015computational,
+  title={Computational imaging using lightweight diffractive-refractive optics},
+  author={Peng, Yifan and Fu, Qiang and Amata, Hadi and Su, Shuochen and Heide, Felix and Heidrich, Wolfgang},
+  journal={Optics express},
+  volume={23},
+  number={24},
+  pages={31393--31407},
+  year={2015},
+  publisher={Optical Society of America}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; OSA 2015, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

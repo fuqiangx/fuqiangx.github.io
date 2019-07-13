@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/tags/</link>
+    <description>Recent content in Tags on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyperspectral imaging</title>
+      <link>https://fuqiangx.github.io/tags/hyperspectral-imaging/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/hyperspectral-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>https://fuqiangx.github.io/tags/virtual-reality/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optics</title>
+      <link>https://fuqiangx.github.io/tags/adaptive-optics/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/adaptive-optics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffractive Optical Elements</title>
+      <link>https://fuqiangx.github.io/tags/diffractive-optical-elements/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Field</title>
+      <link>https://fuqiangx.github.io/tags/light-field/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/light-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Imaging</title>
+      <link>https://fuqiangx.github.io/tags/spectral-imaging/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/spectral-imaging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
