@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HDR, inception network on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/tags/hdr-inception-network/</link>
+    <description>Recent content in HDR, inception network on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/tags/hdr-inception-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconfigurable Snapshot HDR Imaging Using Coded Masks and Inception Network</title>
+      <link>https://fuqiangx.github.io/publication/algamdi2019hdr/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/algamdi2019hdr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
