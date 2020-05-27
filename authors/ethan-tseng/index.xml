@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/ethan-tseng/</link>
+    <description>Recent content on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/ethan-tseng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Rank-1 Diffractive Optics for Single-shot High Dynamic Range Imaging (oral)</title>
+      <link>https://fuqiangx.github.io/publication/sun2020learning/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/sun2020learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/ethan-tseng/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/ethan-tseng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

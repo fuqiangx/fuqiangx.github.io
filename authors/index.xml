@@ -7,10 +7,60 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/ethan-tseng/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/ethan-tseng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/qilin-sun/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/qilin-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/admin/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Qiang Fu&amp;rsquo;s research interests lie in the multidisciplinary research area of computational imaging, including optical system design, diffractive optics, micro/nano-fabrication, compressive sensing, spectral imaging and their applications.&lt;/p&gt;
+
+&lt;p&gt;Feel free to contact me by email: qiang.fu@kaust.edu.sa&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -23,34 +73,11 @@
     
     <item>
       <title></title>
-      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://fuqiangx.github.io/authors/xiong-dun/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/xiong-dun/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Qiang Fu&amp;rsquo;s research interests lie in the multidisciplinary research area of computational imaging, including optical system design, diffractive optics, micro/nano-fabrication, compressive sensing, spectral imaging and their applications.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me by email: qiang.fu@kaust.edu.sa&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -284,15 +311,6 @@
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/xu-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
-      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
       <description></description>
     </item>
     
