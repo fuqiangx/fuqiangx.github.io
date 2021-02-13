@@ -7,10 +7,77 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench</title>
+      <link>https://fuqiangx.github.io/publication/lardiere2020optical/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/lardiere2020optical/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{lardiere2020optical,
+  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
+  author={Lardi{\`e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{\&#39;e}ran, Jean-Pierre and Blain, C{\&#39;e}lia and Heidrich, Wolfgang and Fu, Qiang},
+  booktitle={Adaptive Optics Systems VII},
+  volume={11448},
+  pages={114486Y},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor</title>
+      <link>https://fuqiangx.github.io/publication/marois2020upgrading/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2020upgrading/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{marois2020upgrading,
+  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
+  author={Marois, Christian and Gerard, Benjamin and Lardi{\`e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
+  booktitle={Adaptive Optics Systems VII},
+  volume={11448},
+  pages={1144873},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflection Removal via Realistic Training Data Generation</title>
+      <link>https://fuqiangx.github.io/publication/pang2020reflection/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/pang2020reflection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@incollection{pang2020reflection,
+  title={Reflection Removal via Realistic Training Data Generation},
+  author={Pang, Youxin and Yuan, Mengke and Fu, Qiang and Yan, Dong-Ming},
+  booktitle={ACM SIGGRAPH 2020 Posters},
+  pages={1--2},
+  year={2020}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; ACM, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning Rank-1 Diffractive Optics for Single-shot High Dynamic Range Imaging (oral)</title>

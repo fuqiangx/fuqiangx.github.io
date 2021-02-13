@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Thibault on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/s.-thibault/</link>
+    <description>Recent content in S. Thibault on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/s.-thibault/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor</title>
+      <link>https://fuqiangx.github.io/publication/marois2020upgrading/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2020upgrading/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{marois2020upgrading,
+  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
+  author={Marois, Christian and Gerard, Benjamin and Lardi{\`e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
+  booktitle={Adaptive Optics Systems VII},
+  volume={11448},
+  pages={1144873},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
