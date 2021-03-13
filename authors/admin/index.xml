@@ -7,10 +7,33 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transfer Deep Learning for Reconfigurable Snapshot HDR Imaging Using Coded Masks</title>
+      <link>https://fuqiangx.github.io/publication/alghamdi2021transfer/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/alghamdi2021transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Polarization Demosaicking for Monochrome and Color Polarization Focal Plane Arrays</title>
+      <link>https://fuqiangx.github.io/publication/qiu2021linear/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/qiu2021linear/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/dF2tVk_fGb0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Robust statistical phase-diversity method for high-accuracy wavefront sensing</title>
@@ -511,14 +534,14 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Qiang Fu&amp;rsquo;s research interests lie in the multidisciplinary research area of computational imaging, including optical system design, diffractive optics, micro/nano-fabrication, compressive sensing, spectral imaging and their applications.&lt;/p&gt;
+&lt;p&gt;Qiang Fu’s research interests lie in the multidisciplinary research areas of computational imaging and display that develops emerging and fast-growing visual computing technologies by integrating state-of-the-art techniques in computer vision, computer graphics, optics, machine learning, inverse problem, and micro/nano-fabrication. Such developing technologies could harness applications in various areas, including photography, machine vision, virtual/mixed reality, underwater imaging, medical imaging, microscopy, endoscopy, remote sensing, and so on.&lt;/p&gt;
 
-&lt;p&gt;Feel free to contact me by email: qiang.fu@kaust.edu.sa&lt;/p&gt;
+&lt;p&gt;Feel free to contact me by email: &lt;span style=&#34;color:blue&#34;&gt;qiang.fu@kaust.edu.sa&lt;/span&gt; or &lt;span style=&#34;color:blue&#34;&gt;fuqiangx@outlook.com&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -3,25 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fuqiangx.github.io/authors/yunfeng-nie/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <loc>https://fuqiangx.github.io/authors/ali-thabet/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/masheal-algamdi/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/authors/admin/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/publication_types/2/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/authors/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/hdr/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/alghamdi2021transfer/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/congli-wang/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/simeng-qiu/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/qiu2021linear/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/polarization/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/yunfeng-nie/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -32,23 +102,6 @@
   
   <url>
     <loc>https://fuqiangx.github.io/tags/phase-retrievel/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication_types/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -65,20 +118,9 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/tags/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/authors/zhisheng-zhou/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -211,12 +253,6 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/tags/polarization/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/publication/pang2020reflection/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -254,11 +290,6 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/authors/congli-wang/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/authors/xiong-dun/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -272,21 +303,6 @@
   <url>
     <loc>https://fuqiangx.github.io/publication/wang2019qpm/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/ali-thabet/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/masheal-algamdi/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/simeng-qiu/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
