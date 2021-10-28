@@ -3,6 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fuqiangx.github.io/authors/hadi-amata/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/admin/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/fu2021etchfree/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/yuqi-li/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/1/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/li2021multispectral/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/multispectral-deep-unreolling-network/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/congli-wang/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/qilin-sun/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/xiong-dun/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/sun2021end/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/end-to-end-lens-design/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fuqiangx.github.io/authors/felix-heide/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -18,53 +127,8 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/admin/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication_types/1/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/publication/chugunov2021mask/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication_types/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/tags/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,12 +148,6 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/tags/hdr/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -98,11 +156,6 @@
   <url>
     <loc>https://fuqiangx.github.io/publication/alghamdi2021transfer/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/congli-wang/</loc>
-    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -295,11 +348,6 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/authors/qilin-sun/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/tags/hdr-doe/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -308,11 +356,6 @@
   <url>
     <loc>https://fuqiangx.github.io/publication/sun2020learning/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/xiong-dun/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -575,12 +618,6 @@
   <url>
     <loc>https://fuqiangx.github.io/publication/peng2015computational/</loc>
     <lastmod>2015-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/hadi-amata/</loc>
-    <lastmod>2015-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

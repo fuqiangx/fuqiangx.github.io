@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diffractive Optical Elements, lithography</title>
+      <link>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral, deep unreolling network</title>
+      <link>https://fuqiangx.github.io/tags/multispectral-deep-unreolling-network/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/multispectral-deep-unreolling-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end, lens design</title>
+      <link>https://fuqiangx.github.io/tags/end-to-end-lens-design/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/end-to-end-lens-design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time of Flight, DOE</title>
@@ -85,7 +112,7 @@
     </item>
     
     <item>
-      <title>Hyperspectral imaging</title>
+      <title>Hyperspectral Imaging</title>
       <link>https://fuqiangx.github.io/tags/hyperspectral-imaging/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       

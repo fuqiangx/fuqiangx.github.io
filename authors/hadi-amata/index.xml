@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hadi Amata on Qiang Fu</title>
+    <title>Qiang Fu</title>
     <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-    <description>Recent content in Hadi Amata on Qiang Fu</description>
+    <description>Recent content on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 11 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/hadi-amata/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Etch-free additive lithographic fabrication methods for reflective and transmissive micro-optics</title>
+      <link>https://fuqiangx.github.io/publication/fu2021etchfree/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/fu2021etchfree/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational imaging using lightweight diffractive-refractive optics</title>
@@ -34,6 +43,15 @@
 
 &lt;p&gt;All images are &amp;copy; OSA 2015, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
+      <description></description>
     </item>
     
   </channel>
