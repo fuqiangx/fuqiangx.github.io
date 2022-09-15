@@ -7,10 +7,188 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Phase-diversity wavefront sensing enhanced by a Fourier-based neural network</title>
+      <link>https://fuqiangx.github.io/publication/zhou2022phase/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2022phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment of focal plane WFS technologies on 8-m telescopes: from the Subaru SPIDERS pathfinder, to the facility-class GPI 2.0 CAL2 system</title>
+      <link>https://fuqiangx.github.io/publication/marois2022development/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2022development/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{marois2022deployment,
+  title={Deployment of focal plane WFS technologies on 8-m telescopes: from the {Subaru SPIDERS} pathfinder, to the facility-class {GPI 2.0} system},
+  author={Marois, Christian and Lardi{\`e}re, Olivier and Thompson, William and Singh, Garima and Johnson, Adam and Hardy, Tim and Fitzsimmons, Joeleff and Gerard, Benjamin L and Sivanandam, Suresh and Thibault, Simon and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={594--603},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optical design of SPIDERS, a Subaru Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra</title>
+      <link>https://fuqiangx.github.io/publication/ladiere2022optical/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/ladiere2022optical/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{lardiere2022optical,
+  title={Optical design of {SPIDERS}, a {Subaru} Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra},
+  author={Lardi{\`e}re, Olivier and Marois, Christian and Thompson, William and Singh, Garima and Johnson, Adam and Fitzsimmons, Joeleff and Hardy, Tim and N&#39;diaye, Mamadou and Heidrich, Wolfgang and Fu, Qiang and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={1252--1262},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance of the FAST self coherent camera at the NEW-EARTH lab and a simplified SCC measurement algorithm</title>
+      <link>https://fuqiangx.github.io/publication/thompson2022performance/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/thompson2022performance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{thompson2022performance,
+  title={Performance of the {FAST} self coherent camera at the {NEW-EARTH} lab and a simplified {SCC} measurement algorithm},
+  author={Thompson, William and Marois, Christian and Singh, Garima and Lardi{\`e}re, Olivier and Gerard, Benjamin and Fu, Qiang and Heidrich, Wolfgang},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={724--735},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pupil-plane LLOWFS simulation and laboratory results from NEW-EARTH’s high-contrast imaging testbed</title>
+      <link>https://fuqiangx.github.io/publication/singh2022pupil/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/singh2022pupil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{singh2022pupil,
+  title={Pupil-plane {LLOWFS} simulation and laboratory results from {NEW-EARTH}’s high-contrast imaging testbed},
+  author={Singh, Garima and Thompson, William and Lardi{\`e}re, Olivier and Marois, Christian and N&#39;Diaye, Mamadou and Johnson, Adam B and V{\&#39;e}ran, Jean-Pierre and Herriot, Glen and Gerard, Benjamin and Fu, Qiang and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={1592--1603},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Various wavefront sensing and control developments on the Santa Cruz extreme AO laboratory (SEAL) testbedh</title>
+      <link>https://fuqiangx.github.io/publication/gerard2022various/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/gerard2022various/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{gerard2022various,
+  title={Various wavefront sensing and control developments on the {Santa Cruz} extreme {AO} laboratory ({SEAL}) testbed},
+  author={Gerard, Benjamin L and Perez-Soto, Javier and Chambouleyron, Vincent and van Kooten, Maaike AM and Dillon, Daren and Cetre, Sylvain and Jensen-Clem, Rebecca and Fu, Qiang and Amata, Hadi and Heidrich, Wolfgang},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={778--790},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seeing through obstructions with diffractive cloaking</title>
+      <link>https://fuqiangx.github.io/publication/shi2022seeing/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/shi2022seeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic lens design based on differentiable ray-tracing</title>
+      <link>https://fuqiangx.github.io/publication/yang2022automatic/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/yang2022automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on computational spectral reconstruction methods from RGB to hyperspectral imaging</title>
+      <link>https://fuqiangx.github.io/publication/zhang2022asurvey/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhang2022asurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent progress in computational imaging</title>
+      <link>https://fuqiangx.github.io/publication/dun2022recent/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/dun2022recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive polarization based reflection removal via realistic training data generation</title>
+      <link>https://fuqiangx.github.io/publication/pang2022progressive/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/pang2022progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Additive lithographic fabrication of a Tilt-Gaussian-Vortex mask for focal plane wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/fu2021additive/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/fu2021additive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Etch-free additive lithographic fabrication methods for reflective and transmissive micro-optics</title>
@@ -570,7 +748,7 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;

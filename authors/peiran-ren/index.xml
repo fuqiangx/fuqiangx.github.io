@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peiran Ren on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/peiran-ren/</link>
+    <description>Recent content in Peiran Ren on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/peiran-ren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progressive polarization based reflection removal via realistic training data generation</title>
+      <link>https://fuqiangx.github.io/publication/pang2022progressive/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/pang2022progressive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

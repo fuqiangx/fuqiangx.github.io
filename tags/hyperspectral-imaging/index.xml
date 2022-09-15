@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyperspectral Imaging on Qiang Fu</title>
+    <title>Hyperspectral imaging on Qiang Fu</title>
     <link>https://fuqiangx.github.io/tags/hyperspectral-imaging/</link>
-    <description>Recent content in Hyperspectral Imaging on Qiang Fu</description>
+    <description>Recent content in Hyperspectral imaging on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/hyperspectral-imaging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A survey on computational spectral reconstruction methods from RGB to hyperspectral imaging</title>
+      <link>https://fuqiangx.github.io/publication/zhang2022asurvey/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhang2022asurvey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compact Snapshot Hyperspectral Imaging with Diffracted Rotation</title>

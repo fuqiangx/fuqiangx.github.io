@@ -7,15 +7,78 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Phase diversity, wavefront sensing, neural network</title>
+      <link>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavefront sensing</title>
+      <link>https://fuqiangx.github.io/tags/wavefront-sensing/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/wavefront-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffractive optical element</title>
+      <link>https://fuqiangx.github.io/tags/diffractive-optical-element/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/diffractive-optical-element/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical design</title>
+      <link>https://fuqiangx.github.io/tags/optical-design/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/optical-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral imaging</title>
+      <link>https://fuqiangx.github.io/tags/hyperspectral-imaging/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/hyperspectral-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational imaging</title>
+      <link>https://fuqiangx.github.io/tags/computational-imaging/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/computational-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization, Convolutional Neural Network</title>
+      <link>https://fuqiangx.github.io/tags/polarization-convolutional-neural-network/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/polarization-convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diffractive Optical Elements, lithography</title>
       <link>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</link>
-      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</guid>
       <description></description>
@@ -76,7 +139,7 @@
     </item>
     
     <item>
-      <title>Adaptive optics</title>
+      <title>Adaptive Optics</title>
       <link>https://fuqiangx.github.io/tags/adaptive-optics/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       
@@ -108,15 +171,6 @@
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/tags/hdr-inception-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hyperspectral Imaging</title>
-      <link>https://fuqiangx.github.io/tags/hyperspectral-imaging/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/tags/hyperspectral-imaging/</guid>
       <description></description>
     </item>
     
