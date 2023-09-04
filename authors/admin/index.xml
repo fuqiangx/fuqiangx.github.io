@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Additive diffractive optical elements fabrication by PECVP deposition of SiO2 and lift-off process</title>
+      <link>https://fuqiangx.github.io/publication/amata2023additive/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/amata2023additive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aberration-aware depth-from-focus</title>
+      <link>https://fuqiangx.github.io/publication/yang2023aberration/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/yang2023aberration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization of learned Fourier-based phase-diversity wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/zhou2023generalization/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2023generalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Depth-of-Field Projector using Learned Diffractive Optics</title>
+      <link>https://fuqiangx.github.io/publication/li2023extended/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/li2023extended/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diffractive lensless imaging with optimized Voronoi-Fresnel phase</title>
@@ -757,7 +793,7 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;

@@ -7,24 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://fuqiangx.github.io/authors/dong-ming-yan/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fuqiangx.github.io/authors/dong-ming-yan/</guid>
+      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
@@ -46,8 +46,26 @@
     
     <item>
       <title></title>
+      <link>https://fuqiangx.github.io/authors/mohamed-elhoseiny/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/mohamed-elhoseiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://fuqiangx.github.io/authors/yunfeng-nie/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/yunfeng-nie/</guid>
       <description></description>
@@ -56,7 +74,7 @@
     <item>
       <title>Jingang Zhang</title>
       <link>https://fuqiangx.github.io/authors/jingang-zhang/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/jingang-zhang/</guid>
       <description></description>
@@ -65,7 +83,7 @@
     <item>
       <title>Zhisheng Zhou</title>
       <link>https://fuqiangx.github.io/authors/zhisheng-zhou/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/zhisheng-zhou/</guid>
       <description></description>
@@ -73,10 +91,19 @@
     
     <item>
       <title></title>
-      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://fuqiangx.github.io/authors/yuqi-li/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
+      <guid>https://fuqiangx.github.io/authors/yuqi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuqiangx.github.io/authors/dong-ming-yan/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/dong-ming-yan/</guid>
       <description></description>
     </item>
     
@@ -342,15 +369,6 @@
     </item>
     
     <item>
-      <title>Xinge Yang</title>
-      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Runmu Su</title>
       <link>https://fuqiangx.github.io/authors/runmu-su/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -437,15 +455,6 @@
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/youxin-pang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fuqiangx.github.io/authors/yuqi-li/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/yuqi-li/</guid>
       <description></description>
     </item>
     

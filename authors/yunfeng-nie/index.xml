@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/yunfeng-nie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generalization of learned Fourier-based phase-diversity wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/zhou2023generalization/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2023generalization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phase-diversity wavefront sensing enhanced by a Fourier-based neural network</title>
@@ -56,7 +65,7 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/yunfeng-nie/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/yunfeng-nie/</guid>
       <description></description>

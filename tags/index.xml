@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diffractive Optical Elements, lithography</title>
+      <link>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth-from-focus, neural network</title>
+      <link>https://fuqiangx.github.io/tags/depth-from-focus-neural-network/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/depth-from-focus-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase diversity, wavefront sensing, neural network</title>
+      <link>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual reality, extended Depth-of-Field</title>
+      <link>https://fuqiangx.github.io/tags/virtual-reality-extended-depth-of-field/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/virtual-reality-extended-depth-of-field/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diffractive Optical Elements, lensless imagig</title>
@@ -18,15 +54,6 @@
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements-lensless-imagig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase diversity, wavefront sensing, neural network</title>
-      <link>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</guid>
       <description></description>
     </item>
     
@@ -85,15 +112,6 @@
     </item>
     
     <item>
-      <title>Diffractive Optical Elements, lithography</title>
-      <link>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multispectral, deep unreolling network</title>
       <link>https://fuqiangx.github.io/tags/multispectral-deep-unreolling-network/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
@@ -148,7 +166,7 @@
     </item>
     
     <item>
-      <title>Adaptive Optics</title>
+      <title>Adaptive optics</title>
       <link>https://fuqiangx.github.io/tags/adaptive-optics/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       
