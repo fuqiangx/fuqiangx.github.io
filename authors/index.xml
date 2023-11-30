@@ -7,15 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
       <description></description>
@@ -23,8 +32,17 @@
     
     <item>
       <title></title>
+      <link>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
       <description></description>
@@ -32,8 +50,17 @@
     
     <item>
       <title></title>
+      <link>https://fuqiangx.github.io/authors/yidan-zheng/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/yidan-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34; target=&#34;_blank&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34; target=&#34;_blank&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34; target=&#34;_blank&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34; target=&#34;_blank&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
@@ -225,7 +252,7 @@
     </item>
     
     <item>
-      <title>Mamadou N&#39;diaye</title>
+      <title>Mamadou N&#39;Diaye</title>
       <link>https://fuqiangx.github.io/authors/mamadou-ndiaye/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -316,28 +343,10 @@
     
     <item>
       <title></title>
-      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://fuqiangx.github.io/authors/seung-hwan-baek/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/seung-hwan-baek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Praneeth Chakravarthula</title>
-      <link>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</guid>
       <description></description>
     </item>
     

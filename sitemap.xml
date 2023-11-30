@@ -3,18 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fuqiangx.github.io/authors/felix-heide/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fuqiangx.github.io/authors/hadi-amata/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/yidan-zheng/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/authors/admin/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/amata2023sio2/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/authors/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/zheng2023hexagonal/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication_types/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/publication/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fuqiangx.github.io/tags/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -26,41 +92,6 @@
   <url>
     <loc>https://fuqiangx.github.io/publication/amata2023additive/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/tags/diffractive-optical-elements-lithography/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication_types/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/tags/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -87,12 +118,6 @@
   <url>
     <loc>https://fuqiangx.github.io/authors/yunfeng-nie/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -325,23 +350,12 @@
   </url>
   
   <url>
-    <loc>https://fuqiangx.github.io/authors/felix-heide/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fuqiangx.github.io/authors/seung-hwan-baek/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fuqiangx.github.io/tags/diffractive-optical-element/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fuqiangx.github.io/authors/praneeth-chakravarthula/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
