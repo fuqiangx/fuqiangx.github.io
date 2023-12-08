@@ -20,25 +20,21 @@
       <guid>https://fuqiangx.github.io/publication/xiong2017rainbowpiv/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/HYs9dMxqJf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HYs9dMxqJf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{xiong2017rainbow,
-  title={Rainbow particle imaging velocimetry for dense 3D fluid velocity imaging},
-  author={Xiong, Jinhui and Idoughi, Ramzi and Aguirre-Pablo, Andres A and Aljedaani, Abdulrahman B and Dun, Xiong and Fu, Qiang and Thoroddsen, Sigurdur T and Heidrich, Wolfgang},
-  journal={ACM Transactions on Graphics (TOG)},
-  volume={36},
-  number={4},
-  pages={36},
-  year={2017},
-  publisher={ACM}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; ACM 2017, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{xiong2017rainbow,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Rainbow particle imaging velocimetry for dense 3D fluid velocity imaging},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Xiong, Jinhui and Idoughi, Ramzi and Aguirre-Pablo, Andres A and Aljedaani, Abdulrahman B and Dun, Xiong and Fu, Qiang and Thoroddsen, Sigurdur T and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={ACM Transactions on Graphics (TOG)},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={36},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={4},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={36},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2017},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={ACM}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM 2017, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

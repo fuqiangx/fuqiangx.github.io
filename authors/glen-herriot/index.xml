@@ -19,19 +19,16 @@
       
       <guid>https://fuqiangx.github.io/publication/singh2022pupil/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{singh2022pupil,
-  title={Pupil-plane {LLOWFS} simulation and laboratory results from {NEW-EARTH}’s high-contrast imaging testbed},
-  author={Singh, Garima and Thompson, William and Lardi{\`e}re, Olivier and Marois, Christian and N&#39;Diaye, Mamadou and Johnson, Adam B and V{\&#39;e}ran, Jean-Pierre and Herriot, Glen and Gerard, Benjamin and Fu, Qiang and others},
-  booktitle={Adaptive Optics Systems VIII},
-  volume={12185},
-  pages={1592--1603},
-  year={2022},
-  organization={SPIE}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{singh2022pupil,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Pupil-plane {LLOWFS} simulation and laboratory results from {NEW-EARTH}’s high-contrast imaging testbed},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Singh, Garima and Thompson, William and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and N&amp;#39;Diaye, Mamadou and Johnson, Adam B and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Herriot, Glen and Gerard, Benjamin and Fu, Qiang and others},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1592--1603},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

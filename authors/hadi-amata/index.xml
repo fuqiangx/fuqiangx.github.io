@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qiang Fu</title>
+    <title>Hadi Amata on Qiang Fu</title>
     <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-    <description>Recent content on Qiang Fu</description>
+    <description>Recent content in Hadi Amata on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
@@ -46,19 +46,16 @@
       
       <guid>https://fuqiangx.github.io/publication/gerard2022various/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{gerard2022various,
-  title={Various wavefront sensing and control developments on the {Santa Cruz} extreme {AO} laboratory ({SEAL}) testbed},
-  author={Gerard, Benjamin L and Perez-Soto, Javier and Chambouleyron, Vincent and van Kooten, Maaike AM and Dillon, Daren and Cetre, Sylvain and Jensen-Clem, Rebecca and Fu, Qiang and Amata, Hadi and Heidrich, Wolfgang},
-  booktitle={Adaptive Optics Systems VIII},
-  volume={12185},
-  pages={778--790},
-  year={2022},
-  organization={SPIE}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{gerard2022various,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Various wavefront sensing and control developments on the {Santa Cruz} extreme {AO} laboratory ({SEAL}) testbed},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Gerard, Benjamin L and Perez-Soto, Javier and Chambouleyron, Vincent and van Kooten, Maaike AM and Dillon, Daren and Cetre, Sylvain and Jensen-Clem, Rebecca and Fu, Qiang and Amata, Hadi and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={778--790},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,30 +93,18 @@
       
       <guid>https://fuqiangx.github.io/publication/peng2015computational/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{peng2015computational,
-  title={Computational imaging using lightweight diffractive-refractive optics},
-  author={Peng, Yifan and Fu, Qiang and Amata, Hadi and Su, Shuochen and Heide, Felix and Heidrich, Wolfgang},
-  journal={Optics express},
-  volume={23},
-  number={24},
-  pages={31393--31407},
-  year={2015},
-  publisher={Optical Society of America}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; OSA 2015, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{peng2015computational,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Computational imaging using lightweight diffractive-refractive optics},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Peng, Yifan and Fu, Qiang and Amata, Hadi and Su, Shuochen and Heide, Felix and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={Optics express},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={23},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={24},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={31393--31407},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2015},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={Optical Society of America}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2015, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
-      <description></description>
     </item>
     
   </channel>

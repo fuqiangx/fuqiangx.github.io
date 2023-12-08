@@ -19,20 +19,17 @@
       
       <guid>https://fuqiangx.github.io/publication/zhu2019hyperspectral/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{zhu2018hyperspectral,
-  title={Hyperspectral light field stereo matching},
-  author={Zhu, Kang and Xue, Yujia and Fu, Qiang and Kang, Sing Bing and Chen, Xilin and Yu, Jingyi},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
-  volume={41},
-  number={5},
-  pages={1131--1143},
-  year={2018},
-  publisher={IEEE}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; IEEE 2019, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{zhu2018hyperspectral,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Hyperspectral light field stereo matching},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Zhu, Kang and Xue, Yujia and Fu, Qiang and Kang, Sing Bing and Chen, Xilin and Yu, Jingyi},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={IEEE transactions on pattern analysis and machine intelligence},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={41},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={5},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1131--1143},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2018},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={IEEE}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © IEEE 2019, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

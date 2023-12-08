@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qiang Fu</title>
+    <title>Congli Wang on Qiang Fu</title>
     <link>https://fuqiangx.github.io/authors/congli-wang/</link>
-    <description>Recent content on Qiang Fu</description>
+    <description>Recent content in Congli Wang on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
@@ -29,7 +29,7 @@
       <guid>https://fuqiangx.github.io/publication/qiu2021linear/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/dF2tVk_fGb0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dF2tVk_fGb0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -42,19 +42,17 @@
       
       <guid>https://fuqiangx.github.io/publication/wang2019qpm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2019quantitative,
-  title={Quantitative Phase and Intensity Microscopy Using Snapshot White Light Wavefront Sensing},
-  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
-  journal={Scientific reports},
-  volume={9},
-  number={1},
-  pages={1--12},
-  year={2019},
-  publisher={Nature Publishing Group}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{wang2019quantitative,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Quantitative Phase and Intensity Microscopy Using Snapshot White Light Wavefront Sensing},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={Scientific reports},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={9},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={1},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1--12},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2019},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={Nature Publishing Group}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -65,7 +63,7 @@
       <guid>https://fuqiangx.github.io/publication/qiu2019polarization/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/dF2tVk_fGb0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dF2tVk_fGb0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -78,18 +76,15 @@
       
       <guid>https://fuqiangx.github.io/publication/wang2019model/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{wang2019model,
-  title={A model for classical wavefront sensors and snapshot incoherent wavefront sensing},
-  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
-  booktitle={Computational Optical Sensing and Imaging},
-  pages={CM1A--4},
-  year={2019},
-  organization={Optical Society of America}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; OSA 2019, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{wang2019model,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={A model for classical wavefront sensors and snapshot incoherent wavefront sensing},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Computational Optical Sensing and Imaging},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={CM1A--4},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2019},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={Optical Society of America}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2019, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -101,25 +96,21 @@
       <guid>https://fuqiangx.github.io/publication/wang2018megapixel/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ZpBtAHa2k7c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZpBtAHa2k7c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2018megapixel,
-  title={Megapixel adaptive optics: towards correcting large-scale distortions in computational cameras},
-  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
-  journal={ACM Transactions on Graphics (TOG)},
-  volume={37},
-  number={4},
-  pages={115},
-  year={2018},
-  publisher={ACM}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; ACM 2018, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{wang2018megapixel,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Megapixel adaptive optics: towards correcting large-scale distortions in computational cameras},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={ACM Transactions on Graphics (TOG)},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={37},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={4},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={115},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2018},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={ACM}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM 2018, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -131,35 +122,22 @@
       <guid>https://fuqiangx.github.io/publication/wang2017cws/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ga5S50-O-9I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ga5S50-O-9I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2017ultra,
-  title={Ultra-high resolution coded wavefront sensor},
-  author={Wang, Congli and Dun, Xiong and Fu, Qiang and Heidrich, Wolfgang},
-  journal={Optics express},
-  volume={25},
-  number={12},
-  pages={13736--13746},
-  year={2017},
-  publisher={Optical Society of America}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; OSA 2017, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{wang2017ultra,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Ultra-high resolution coded wavefront sensor},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Dun, Xiong and Fu, Qiang and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={Optics express},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={25},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={12},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={13736--13746},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2017},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={Optical Society of America}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2017, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fuqiangx.github.io/authors/congli-wang/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/congli-wang/</guid>
-      <description></description>
     </item>
     
   </channel>

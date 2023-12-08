@@ -19,19 +19,16 @@
       
       <guid>https://fuqiangx.github.io/publication/lardiere2020optical/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{lardiere2020optical,
-  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
-  author={Lardi{\`e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{\&#39;e}ran, Jean-Pierre and Blain, C{\&#39;e}lia and Heidrich, Wolfgang and Fu, Qiang},
-  booktitle={Adaptive Optics Systems VII},
-  volume={11448},
-  pages={114486Y},
-  year={2020},
-  organization={International Society for Optics and Photonics}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{lardiere2020optical,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Blain, C{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}lia and Heidrich, Wolfgang and Fu, Qiang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VII},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={11448},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={114486Y},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={International Society for Optics and Photonics}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

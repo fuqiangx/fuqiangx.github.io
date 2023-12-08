@@ -19,19 +19,16 @@
       
       <guid>https://fuqiangx.github.io/publication/lardiere2020optical/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{lardiere2020optical,
-  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
-  author={Lardi{\`e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{\&#39;e}ran, Jean-Pierre and Blain, C{\&#39;e}lia and Heidrich, Wolfgang and Fu, Qiang},
-  booktitle={Adaptive Optics Systems VII},
-  volume={11448},
-  pages={114486Y},
-  year={2020},
-  organization={International Society for Optics and Photonics}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{lardiere2020optical,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Blain, C{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}lia and Heidrich, Wolfgang and Fu, Qiang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VII},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={11448},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={114486Y},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={International Society for Optics and Photonics}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -42,19 +39,16 @@
       
       <guid>https://fuqiangx.github.io/publication/marois2020upgrading/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{marois2020upgrading,
-  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
-  author={Marois, Christian and Gerard, Benjamin and Lardi{\`e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
-  booktitle={Adaptive Optics Systems VII},
-  volume={11448},
-  pages={1144873},
-  year={2020},
-  organization={International Society for Optics and Photonics}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{marois2020upgrading,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Marois, Christian and Gerard, Benjamin and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VII},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={11448},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1144873},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={International Society for Optics and Photonics}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -66,25 +60,21 @@
       <guid>https://fuqiangx.github.io/publication/wang2018megapixel/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ZpBtAHa2k7c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZpBtAHa2k7c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2018megapixel,
-  title={Megapixel adaptive optics: towards correcting large-scale distortions in computational cameras},
-  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
-  journal={ACM Transactions on Graphics (TOG)},
-  volume={37},
-  number={4},
-  pages={115},
-  year={2018},
-  publisher={ACM}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; ACM 2018, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{wang2018megapixel,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Megapixel adaptive optics: towards correcting large-scale distortions in computational cameras},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={ACM Transactions on Graphics (TOG)},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={37},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={4},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={115},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2018},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={ACM}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM 2018, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,25 +86,21 @@
       <guid>https://fuqiangx.github.io/publication/wang2017cws/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ga5S50-O-9I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ga5S50-O-9I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{wang2017ultra,
-  title={Ultra-high resolution coded wavefront sensor},
-  author={Wang, Congli and Dun, Xiong and Fu, Qiang and Heidrich, Wolfgang},
-  journal={Optics express},
-  volume={25},
-  number={12},
-  pages={13736--13746},
-  year={2017},
-  publisher={Optical Society of America}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; OSA 2017, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{wang2017ultra,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Ultra-high resolution coded wavefront sensor},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Dun, Xiong and Fu, Qiang and Heidrich, Wolfgang},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={Optics express},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={25},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={12},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={13736--13746},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2017},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={Optical Society of America}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2017, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

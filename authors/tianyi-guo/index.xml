@@ -19,20 +19,17 @@
       
       <guid>https://fuqiangx.github.io/publication/yu2016beam/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{yu2017beam,
-  title={Beam shaping for multicolour light-emitting diodes with diffractive optical elements},
-  author={Yu, Chao and Peng, Yifan and Guo, Tianyi and Fu, Qiang and Li, Haifeng and Liu, Xu},
-  journal={Journal of Modern Optics},
-  volume={64},
-  number={4},
-  pages={388--395},
-  year={2017},
-  publisher={Taylor \&amp;amp; Francis}
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;All images are &amp;copy; Taylor &amp;amp; Francis 2016, reproduced here by permission of Taylor &amp;amp; Francis for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@article{yu2017beam,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Beam shaping for multicolour light-emitting diodes with diffractive optical elements},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Yu, Chao and Peng, Yifan and Guo, Tianyi and Fu, Qiang and Li, Haifeng and Liu, Xu},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  journal={Journal of Modern Optics},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={64},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  number={4},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={388--395},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2017},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  publisher={Taylor &lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;amp;&lt;/span&gt; Francis}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © Taylor &amp;amp; Francis 2016, reproduced here by permission of Taylor &amp;amp; Francis for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
