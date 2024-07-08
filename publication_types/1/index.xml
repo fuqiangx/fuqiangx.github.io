@@ -46,16 +46,16 @@
       
       <guid>https://fuqiangx.github.io/publication/marois2022development/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{marois2022deployment,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Deployment of focal plane WFS technologies on 8-m telescopes: from the {Subaru SPIDERS} pathfinder, to the facility-class {GPI 2.0} system},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Marois, Christian and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Thompson, William and Singh, Garima and Johnson, Adam and Hardy, Tim and Fitzsimmons, Joeleff and Gerard, Benjamin L and Sivanandam, Suresh and Thibault, Simon and others},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={594--603},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{marois2022deployment,
+  title={Deployment of focal plane WFS technologies on 8-m telescopes: from the {Subaru SPIDERS} pathfinder, to the facility-class {GPI 2.0} system},
+  author={Marois, Christian and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Thompson, William and Singh, Garima and Johnson, Adam and Hardy, Tim and Fitzsimmons, Joeleff and Gerard, Benjamin L and Sivanandam, Suresh and Thibault, Simon and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={594--603},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -66,16 +66,16 @@
       
       <guid>https://fuqiangx.github.io/publication/lardiere2022optical/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{lardiere2022optical,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Optical design of {SPIDERS}, a {Subaru} Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and Thompson, William and Singh, Garima and Johnson, Adam and Fitzsimmons, Joeleff and Hardy, Tim and N&amp;#39;diaye, Mamadou and Heidrich, Wolfgang and Fu, Qiang and others},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1252--1262},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{lardiere2022optical,
+  title={Optical design of {SPIDERS}, a {Subaru} Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra},
+  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and Thompson, William and Singh, Garima and Johnson, Adam and Fitzsimmons, Joeleff and Hardy, Tim and N&amp;#39;diaye, Mamadou and Heidrich, Wolfgang and Fu, Qiang and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={1252--1262},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -86,16 +86,16 @@
       
       <guid>https://fuqiangx.github.io/publication/thompson2022performance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{thompson2022performance,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Performance of the {FAST} self coherent camera at the {NEW-EARTH} lab and a simplified {SCC} measurement algorithm},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Thompson, William and Marois, Christian and Singh, Garima and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Fu, Qiang and Heidrich, Wolfgang},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={724--735},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{thompson2022performance,
+  title={Performance of the {FAST} self coherent camera at the {NEW-EARTH} lab and a simplified {SCC} measurement algorithm},
+  author={Thompson, William and Marois, Christian and Singh, Garima and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Fu, Qiang and Heidrich, Wolfgang},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={724--735},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -106,16 +106,16 @@
       
       <guid>https://fuqiangx.github.io/publication/singh2022pupil/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{singh2022pupil,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Pupil-plane {LLOWFS} simulation and laboratory results from {NEW-EARTH}’s high-contrast imaging testbed},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Singh, Garima and Thompson, William and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and N&amp;#39;Diaye, Mamadou and Johnson, Adam B and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Herriot, Glen and Gerard, Benjamin and Fu, Qiang and others},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1592--1603},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{singh2022pupil,
+  title={Pupil-plane {LLOWFS} simulation and laboratory results from {NEW-EARTH}’s high-contrast imaging testbed},
+  author={Singh, Garima and Thompson, William and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and N&amp;#39;Diaye, Mamadou and Johnson, Adam B and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Herriot, Glen and Gerard, Benjamin and Fu, Qiang and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={1592--1603},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -126,16 +126,16 @@
       
       <guid>https://fuqiangx.github.io/publication/gerard2022various/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{gerard2022various,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Various wavefront sensing and control developments on the {Santa Cruz} extreme {AO} laboratory ({SEAL}) testbed},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Gerard, Benjamin L and Perez-Soto, Javier and Chambouleyron, Vincent and van Kooten, Maaike AM and Dillon, Daren and Cetre, Sylvain and Jensen-Clem, Rebecca and Fu, Qiang and Amata, Hadi and Heidrich, Wolfgang},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={778--790},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{gerard2022various,
+  title={Various wavefront sensing and control developments on the {Santa Cruz} extreme {AO} laboratory ({SEAL}) testbed},
+  author={Gerard, Benjamin L and Perez-Soto, Javier and Chambouleyron, Vincent and van Kooten, Maaike AM and Dillon, Daren and Cetre, Sylvain and Jensen-Clem, Rebecca and Fu, Qiang and Amata, Hadi and Heidrich, Wolfgang},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={778--790},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -191,16 +191,16 @@
       
       <guid>https://fuqiangx.github.io/publication/lardiere2020optical/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{lardiere2020optical,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Blain, C{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}lia and Heidrich, Wolfgang and Fu, Qiang},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={11448},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={114486Y},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={International Society for Optics and Photonics}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{lardiere2020optical,
+  title={Optical design and preliminary results of NEW EARTH, first Canadian high-contrast imaging laboratory test bench},
+  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Gerard, Benjamin and Thompson, William and Marois, Christian and V{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}ran, Jean-Pierre and Blain, C{&lt;span style=&#34;color:#66d9ef&#34;&gt;\&amp;#39;&lt;/span&gt;e}lia and Heidrich, Wolfgang and Fu, Qiang},
+  booktitle={Adaptive Optics Systems VII},
+  volume={11448},
+  pages={114486Y},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -211,16 +211,16 @@
       
       <guid>https://fuqiangx.github.io/publication/marois2020upgrading/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{marois2020upgrading,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Marois, Christian and Gerard, Benjamin and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={11448},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1144873},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={International Society for Optics and Photonics}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{marois2020upgrading,
+  title={Upgrading the Gemini Planet Imager calibration unit with a photon counting focal plane wavefront sensor},
+  author={Marois, Christian and Gerard, Benjamin and Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Anthony, Andre and Bradley, Colin and Dunn, Jennifer and Fu, Qiang and Hardy, Tim and Heidrich, Wolfgang and Herriot, Glen and others},
+  booktitle={Adaptive Optics Systems VII},
+  volume={11448},
+  pages={1144873},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -231,14 +231,14 @@
       
       <guid>https://fuqiangx.github.io/publication/pang2020reflection/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@incollection{pang2020reflection,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Reflection Removal via Realistic Training Data Generation},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Pang, Youxin and Yuan, Mengke and Fu, Qiang and Yan, Dong-Ming},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={ACM SIGGRAPH 2020 Posters},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1--2},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2020}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@incollection{pang2020reflection,
+  title={Reflection Removal via Realistic Training Data Generation},
+  author={Pang, Youxin and Yuan, Mengke and Fu, Qiang and Yan, Dong-Ming},
+  booktitle={ACM SIGGRAPH 2020 Posters},
+  pages={1--2},
+  year={2020}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -281,15 +281,15 @@
       
       <guid>https://fuqiangx.github.io/publication/wang2019model/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{wang2019model,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={A model for classical wavefront sensors and snapshot incoherent wavefront sensing},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Computational Optical Sensing and Imaging},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={CM1A--4},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2019},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={Optical Society of America}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2019, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{wang2019model,
+  title={A model for classical wavefront sensors and snapshot incoherent wavefront sensing},
+  author={Wang, Congli and Fu, Qiang and Dun, Xiong and Heidrich, Wolfgang},
+  booktitle={Computational Optical Sensing and Imaging},
+  pages={CM1A--4},
+  year={2019},
+  organization={Optical Society of America}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © OSA 2019, reproduced here by permission of OSA for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -300,15 +300,15 @@
       
       <guid>https://fuqiangx.github.io/publication/xiong2018reconfigurable/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{xiong2018reconfigurable,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Reconfigurable rainbow PIV for 3D flow measurement},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Xiong, Jinhui and Fu, Qiang and Idoughi, Ramzi and Heidrich, Wolfgang},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={2018 IEEE International Conference on Computational Photography (ICCP)},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1--9},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2018},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={IEEE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © IEEE 2018, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{xiong2018reconfigurable,
+  title={Reconfigurable rainbow PIV for 3D flow measurement},
+  author={Xiong, Jinhui and Fu, Qiang and Idoughi, Ramzi and Heidrich, Wolfgang},
+  booktitle={2018 IEEE International Conference on Computational Photography (ICCP)},
+  pages={1--9},
+  year={2018},
+  organization={IEEE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © IEEE 2018, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -319,14 +319,14 @@
       
       <guid>https://fuqiangx.github.io/publication/xue2017catadioptric/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{xue2017catadioptric,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Catadioptric hyperspectral light field imaging},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Xue, Yujia and Zhu, Kang and Fu, Qiang and Chen, Xilin and Yu, Jingyi},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={985--993},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2017}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © IEEE 2017, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{xue2017catadioptric,
+  title={Catadioptric hyperspectral light field imaging},
+  author={Xue, Yujia and Zhu, Kang and Fu, Qiang and Chen, Xilin and Yu, Jingyi},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={985--993},
+  year={2017}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © IEEE 2017, reproduced here by permission of IEEE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -337,15 +337,15 @@
       
       <guid>https://fuqiangx.github.io/publication/zhu2016save/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{zhu2016save,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={SAVE: shared augmented virtual environment for real-time mixed reality applications},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Zhu, Yu and Zhu, Kang and Fu, Qiang and Chen, Xilin and Gong, Huixing and Yu, Jingyi},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Proceedings of the 15th ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry-Volume 1},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={13--21},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2016},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={ACM}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM 2016, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{zhu2016save,
+  title={SAVE: shared augmented virtual environment for real-time mixed reality applications},
+  author={Zhu, Yu and Zhu, Kang and Fu, Qiang and Chen, Xilin and Gong, Huixing and Yu, Jingyi},
+  booktitle={Proceedings of the 15th ACM SIGGRAPH Conference on Virtual-Reality Continuum and Its Applications in Industry-Volume 1},
+  pages={13--21},
+  year={2016},
+  organization={ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © ACM 2016, reproduced here by permission of ACM for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     

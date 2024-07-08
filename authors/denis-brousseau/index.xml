@@ -19,16 +19,16 @@
       
       <guid>https://fuqiangx.github.io/publication/lardiere2022optical/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@inproceedings{lardiere2022optical,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  title={Optical design of {SPIDERS}, a {Subaru} Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and Thompson, William and Singh, Garima and Johnson, Adam and Fitzsimmons, Joeleff and Hardy, Tim and N&amp;#39;diaye, Mamadou and Heidrich, Wolfgang and Fu, Qiang and others},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  booktitle={Adaptive Optics Systems VIII},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  volume={12185},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  pages={1252--1262},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  year={2022},
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  organization={SPIE}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@inproceedings{lardiere2022optical,
+  title={Optical design of {SPIDERS}, a {Subaru} Pathfinder Instrument for Detecting Exoplanets and Retrieving Spectra},
+  author={Lardi{&lt;span style=&#34;color:#66d9ef&#34;&gt;\`&lt;/span&gt;e}re, Olivier and Marois, Christian and Thompson, William and Singh, Garima and Johnson, Adam and Fitzsimmons, Joeleff and Hardy, Tim and N&amp;#39;diaye, Mamadou and Heidrich, Wolfgang and Fu, Qiang and others},
+  booktitle={Adaptive Optics Systems VIII},
+  volume={12185},
+  pages={1252--1262},
+  year={2022},
+  organization={SPIE}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © SPIE, reproduced here by permission of SPIE for your personal use. Not for redistribution.&lt;/p&gt;
 </description>
     </item>
     
