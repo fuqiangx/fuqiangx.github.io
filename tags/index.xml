@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optical design, deep learning</title>
+      <link>https://fuqiangx.github.io/tags/optical-design-deep-learning/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/optical-design-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffractive optical element</title>
+      <link>https://fuqiangx.github.io/tags/diffractive-optical-element/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/tags/diffractive-optical-element/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Holography</title>
@@ -72,15 +90,6 @@
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/tags/wavefront-sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diffractive optical element</title>
-      <link>https://fuqiangx.github.io/tags/diffractive-optical-element/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/tags/diffractive-optical-element/</guid>
       <description></description>
     </item>
     

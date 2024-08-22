@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,94 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34;&gt;Computational Imaging Group&lt;/a&gt; at the &lt;a href=&#34;https://cemse.kaust.edu.sa/vcc&#34;&gt;Visual Computing Center&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Qiang Fu’s research interests lie in the multidisciplinary research areas of computational imaging and display that develops emerging and fast-growing visual computing technologies by integrating state-of-the-art techniques in computer vision, computer graphics, optics, machine learning, inverse problem, and micro/nano-fabrication. Such developing technologies could harness applications in various areas, including photography, machine vision, virtual/mixed reality, underwater imaging, medical imaging, microscopy, endoscopy, remote sensing, and so on.&lt;/p&gt;
+      <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34;&gt;Computational Imaging Group&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Qiang Fu’s research interests lie in the multidisciplinary research areas of computational imaging and display that develops emerging and fast-growing visual computing technologies by integrating state-of-the-art techniques in computer vision, computer graphics, optics, deep learning, inverse problem, and nano-fabrication. Such developing technologies could harness applications in various areas, including photography, machine vision, virtual/mixed reality, underwater imaging, medical imaging, microscopy, endoscopy, spectral imaging, and so on.&lt;/p&gt;
 &lt;p&gt;Feel free to contact me by email: &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:qiang.fu@kaust.edu.sa&#34;&gt;qiang.fu@kaust.edu.sa&lt;/a&gt;&lt;!-- raw HTML omitted --&gt; or &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:fuqiangx@outlook.com&#34;&gt;fuqiangx@outlook.com&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Heidrich</title>
+      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinge Yang</title>
+      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Heide</title>
+      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoffroi Côté</title>
+      <link>https://fuqiangx.github.io/authors/geoffroi-cote/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/geoffroi-cote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadi Amata</title>
+      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Chugunov</title>
+      <link>https://fuqiangx.github.io/authors/ilya-chugunov/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/ilya-chugunov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiwoon Yeom</title>
+      <link>https://fuqiangx.github.io/authors/jiwoon-yeom/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/jiwoon-yeom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mario Bijelic</title>
+      <link>https://fuqiangx.github.io/authors/mario-bijelic/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/mario-bijelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Shi</title>
+      <link>https://fuqiangx.github.io/authors/zheng-shi/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/zheng-shi/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -48,15 +129,6 @@
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/ethan-tseng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Felix Heide</title>
-      <link>https://fuqiangx.github.io/authors/felix-heide/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
       <description></description>
     </item>
     
@@ -106,24 +178,6 @@
     </item>
     
     <item>
-      <title>Wolfgang Heidrich</title>
-      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hadi Amata</title>
-      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yidan Zheng</title>
       <link>https://fuqiangx.github.io/authors/yidan-zheng/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
@@ -138,15 +192,6 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/mohamed-elhoseiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinge Yang</title>
-      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
       <description></description>
     </item>
     
@@ -421,15 +466,6 @@
     </item>
     
     <item>
-      <title>Zheng Shi</title>
-      <link>https://fuqiangx.github.io/authors/zheng-shi/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/zheng-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Runmu Su</title>
       <link>https://fuqiangx.github.io/authors/runmu-su/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -525,15 +561,6 @@
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/congli-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ilya Chugunov</title>
-      <link>https://fuqiangx.github.io/authors/ilya-chugunov/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/ilya-chugunov/</guid>
       <description></description>
     </item>
     

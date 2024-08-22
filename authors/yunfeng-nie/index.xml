@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qiang Fu</title>
+    <title>Yunfeng Nie on Qiang Fu</title>
     <link>https://fuqiangx.github.io/authors/yunfeng-nie/</link>
-    <description>Recent content on Qiang Fu</description>
+    <description>Recent content in Yunfeng Nie on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/yunfeng-nie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generalization of learned Fourier-based phase-diversity wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/zhou2023generalization/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2023generalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase-diversity wavefront sensing enhanced by a Fourier-based neural network</title>
+      <link>https://fuqiangx.github.io/publication/zhou2022phase/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2022phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on computational spectral reconstruction methods from RGB to hyperspectral imaging</title>
+      <link>https://fuqiangx.github.io/publication/zhang2022asurvey/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhang2022asurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust statistical phase-diversity method for high-accuracy wavefront sensing</title>
+      <link>https://fuqiangx.github.io/publication/zhou2021robust/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/zhou2021robust/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;@article{zhou2021robust,
+  title={Robust statistical phase-diversity method for high-accuracy wavefront sensing},
+  author={Zhou, Zhisheng and Nie, Yunfeng and Fu, Qiang and Liu, Qiran and Zhang, Jingang},
+  journal={Optics and Lasers in Engineering},
+  volume={137},
+  pages={106335},
+  year={2021},
+  publisher={Elsevier}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;All images are © Elsevier 2021, reproduced here by permission of Elsevier for your personal use. Not for redistribution.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
