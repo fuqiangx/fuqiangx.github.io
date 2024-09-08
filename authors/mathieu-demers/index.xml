@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/mathieu-demers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAL2: project update of the NRC Canada facility-class focal plane wavefront sensor for the Gemini Planet Imager 2 upgrade</title>
+      <link>https://fuqiangx.github.io/publication/marois2024cal2/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2024cal2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deployment of focal plane WFS technologies on 8-m telescopes: from the Subaru SPIDERS pathfinder, to the facility-class GPI 2.0 CAL2 system</title>

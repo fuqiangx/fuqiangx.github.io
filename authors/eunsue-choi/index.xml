@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eunsue Choi on Qiang Fu</title>
+    <link>https://fuqiangx.github.io/authors/eunsue-choi/</link>
+    <description>Recent content in Eunsue Choi on Qiang Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fuqiangx.github.io/authors/eunsue-choi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Limitations of hyperspectral imaging from RGB images: A data perspective</title>
+      <link>https://fuqiangx.github.io/publication/fu2024limitations/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/fu2024limitations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

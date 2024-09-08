@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diffractive Optical Elements on Qiang Fu</title>
+    <title>Diffractive optical elements on Qiang Fu</title>
     <link>https://fuqiangx.github.io/tags/diffractive-optical-elements/</link>
-    <description>Recent content in Diffractive Optical Elements on Qiang Fu</description>
+    <description>Recent content in Diffractive optical elements on Qiang Fu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/diffractive-optical-elements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparative performance analysis of multi-level diffractive lens and lens fabricated by grayscale lithography and soft-imprinting</title>
+      <link>https://fuqiangx.github.io/publication/amata2024comparative/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/amata2024comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learned B-spline parametrization of lattice focal coding for monocular RGBD imaging</title>
+      <link>https://fuqiangx.github.io/publication/guo2024learned/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/guo2024learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAL2: project update of the NRC Canada facility-class focal plane wavefront sensor for the Gemini Planet Imager 2 upgrade</title>
+      <link>https://fuqiangx.github.io/publication/marois2024cal2/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2024cal2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconfigurable Rainbow PIV for 3D Flow Measurement</title>

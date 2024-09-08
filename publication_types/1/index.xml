@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparative performance analysis of multi-level diffractive lens and lens fabricated by grayscale lithography and soft-imprinting</title>
+      <link>https://fuqiangx.github.io/publication/amata2024comparative/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/amata2024comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitations of hyperspectral imaging from RGB images: A data perspective</title>
+      <link>https://fuqiangx.github.io/publication/fu2024limitations/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/fu2024limitations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learned B-spline parametrization of lattice focal coding for monocular RGBD imaging</title>
+      <link>https://fuqiangx.github.io/publication/guo2024learned/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/guo2024learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAL2: project update of the NRC Canada facility-class focal plane wavefront sensor for the Gemini Planet Imager 2 upgrade</title>
+      <link>https://fuqiangx.github.io/publication/marois2024cal2/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/marois2024cal2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Additive diffractive optical elements fabrication by PECVP deposition of SiO2 and lift-off process</title>
