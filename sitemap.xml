@@ -2,13 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fuqiangx.github.io/authors/admin/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/publication_types/1/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/authors/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/jingang-zhang/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/publication/zhou2024linearized/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/publication_types/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/publication/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/qiang-fu/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/tags/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/tags/wavefront-sensing/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/yunfeng-nie/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/zhisheng-zhou/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/admin/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/tags/hyperspectral-imaging/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/publication/mei2024progressive/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/xiaoyin-mei/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/authors/yuqi-li/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fuqiangx.github.io/publication_types/1/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/publication/amata2024comparative/</loc>
@@ -23,34 +71,16 @@
     <loc>https://fuqiangx.github.io/authors/hadi-amata/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuqiangx.github.io/tags/hyperspectral-imaging/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fuqiangx.github.io/publication/fu2024limitations/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/authors/matheus-souza/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuqiangx.github.io/publication_types/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/publication/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fuqiangx.github.io/authors/seung-hwan-baek/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/authors/suhyun-shin/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/tags/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/authors/wolfgang-heidrich/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/authors/jiaqi-guo/</loc>
@@ -161,9 +191,6 @@
     <loc>https://fuqiangx.github.io/authors/oyku-s-galvan/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuqiangx.github.io/publication_types/2/</loc>
-    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fuqiangx.github.io/publication/yang2024curriculum/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -251,25 +278,13 @@
     <loc>https://fuqiangx.github.io/publication/zhou2023generalization/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuqiangx.github.io/authors/jingang-zhang/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fuqiangx.github.io/tags/phase-diversity-wavefront-sensing-neural-network/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/authors/yunfeng-nie/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/authors/zhisheng-zhou/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/publication/li2023extended/</loc>
     <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/tags/virtual-reality-extended-depth-of-field/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/authors/yuqi-li/</loc>
     <lastmod>2023-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/publication/fu2022diffractive/</loc>
@@ -315,9 +330,6 @@
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/authors/vincent-chambouleyron/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fuqiangx.github.io/tags/wavefront-sensing/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fuqiangx.github.io/publication/shi2022seeing/</loc>
