@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learned Off-aperture Encoding for Wide Field-of-view RGBD Imaging</title>
+      <link>https://fuqiangx.github.io/publication/wei2025learned/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/wei2025learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Space Imaging</title>
+      <link>https://fuqiangx.github.io/publication/souza2025latent/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/souza2025latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues</title>
+      <link>https://fuqiangx.github.io/publication/liu2025learned/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/liu2025learned/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An AI Curriculum for Learning Lens Design</title>
