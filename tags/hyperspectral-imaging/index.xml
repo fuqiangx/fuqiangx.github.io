@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/tags/hyperspectral-imaging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Limitations of hyperspectral imaging from RGB images: An optics-aware analysis</title>
+      <link>https://fuqiangx.github.io/publication/fu2025limitations-/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/fu2025limitations-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-area fabrication-aware computational diffractive optics computational diffractive optics</title>
+      <link>https://fuqiangx.github.io/publication/wei2025large/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/publication/wei2025large/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Progressive self-supervised learning for CASSI computational spectral cameras</title>
