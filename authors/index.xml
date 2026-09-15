@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fuqiangx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,247 @@
     <item>
       <title></title>
       <link>https://fuqiangx.github.io/authors/admin/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Qiang Fu is a Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34;&gt;Computational Imaging Group&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Qiang Fu’s research interests lie in the multidisciplinary research areas of computational imaging and display that develops emerging and fast-growing visual computing technologies by integrating state-of-the-art techniques in computer vision, computer graphics, optics, deep learning, inverse problem, and nano-fabrication. Such developing technologies could harness applications in various areas, including photography, machine vision, virtual/mixed reality, underwater imaging, medical imaging, microscopy, endoscopy, spectral imaging, and so on.&lt;/p&gt;
+      <description>&lt;p&gt;Qiang Fu is a Senior Research Scientist at &lt;a href=&#34;https://www.kaust.edu.sa&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in the &lt;a href=&#34;https://vccimaging.org&#34;&gt;Computational Imaging Group&lt;/a&gt;, working with &lt;a href=&#34;https://vccimaging.org/People/heidriw/&#34;&gt;Prof. Wolfgang Heidrich&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Qiang Fu’s research centers on computational imaging, where optical systems and computational methods are jointly designed to develop next-generation technologies of acquiring, encoding, reconstructing and interpreting visual information. His work combines computational methods, optical system design, and micro/nanofabrication, with particular interests in physics-grounded AI, differentiable optimization, diffractive optics, and end-to-end imaging-system design. By leveraging computational models through fabricated optical components and integrated prototypes to experimental validation, his research aims to develop next-generation computational cameras and imaging systems with new sensing capabilities, including spectral, polarization, high-dynamic-range, and wavefront imaging.&lt;/p&gt;
 &lt;p&gt;Feel free to contact me by email: &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:qiang.fu@kaust.edu.sa&#34;&gt;qiang.fu@kaust.edu.sa&lt;/a&gt;&lt;!-- raw HTML omitted --&gt; or &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:fuqiangx@outlook.com&#34;&gt;fuqiangx@outlook.com&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Hadi Amata</title>
+      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaizhang Kang</title>
+      <link>https://fuqiangx.github.io/authors/kaizhang-kang/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/kaizhang-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matheus Souza</title>
+      <link>https://fuqiangx.github.io/authors/matheus-souza/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/matheus-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Heidrich</title>
+      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yidan Zheng</title>
+      <link>https://fuqiangx.github.io/authors/yidan-zheng/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/yidan-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baoyuan Zhang</title>
+      <link>https://fuqiangx.github.io/authors/baoyuan-zhang/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/baoyuan-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruno Weber</title>
+      <link>https://fuqiangx.github.io/authors/bruno-weber/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/bruno-weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaim Glück</title>
+      <link>https://fuqiangx.github.io/authors/chaim-gluck/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/chaim-gluck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Razansky</title>
+      <link>https://fuqiangx.github.io/authors/daniel-razansky/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/daniel-razansky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominik Schillinger</title>
+      <link>https://fuqiangx.github.io/authors/dominik-schillinger/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/dominik-schillinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etienne Jessen</title>
+      <link>https://fuqiangx.github.io/authors/etienne-jessen/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/etienne-jessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Tang</title>
+      <link>https://fuqiangx.github.io/authors/lin-tang/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/lin-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lukas Glandorf</title>
+      <link>https://fuqiangx.github.io/authors/lukas-glandorf/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/lukas-glandorf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Reiss</title>
+      <link>https://fuqiangx.github.io/authors/michael-reiss/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/michael-reiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quanyu Zhou</title>
+      <link>https://fuqiangx.github.io/authors/quanyu-zhou/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/quanyu-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiyao Guo</title>
+      <link>https://fuqiangx.github.io/authors/shiyao-guo/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/shiyao-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuxin Lyu</title>
+      <link>https://fuqiangx.github.io/authors/shuxin-lyu/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/shuxin-lyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tian Jin</title>
+      <link>https://fuqiangx.github.io/authors/tian-jin/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/tian-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weibo Wang</title>
+      <link>https://fuqiangx.github.io/authors/weibo-wang/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/weibo-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiong Dun</title>
+      <link>https://fuqiangx.github.io/authors/xiong-dun/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xiong-dun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xosé Luís Deán-Ben</title>
+      <link>https://fuqiangx.github.io/authors/xose-luis-dean-ben/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xose-luis-dean-ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuyang Chang</title>
+      <link>https://fuqiangx.github.io/authors/xuyang-chang/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xuyang-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Chen</title>
+      <link>https://fuqiangx.github.io/authors/yi-chen/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/yi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhenyue Chen</title>
+      <link>https://fuqiangx.github.io/authors/zhenyue-chen/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/zhenyue-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinge Yang</title>
+      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunfeng Nie</title>
+      <link>https://fuqiangx.github.io/authors/yunfeng-nie/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fuqiangx.github.io/authors/yunfeng-nie/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,15 +264,6 @@
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/eunsue-choi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matheus Souza</title>
-      <link>https://fuqiangx.github.io/authors/matheus-souza/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/matheus-souza/</guid>
       <description></description>
     </item>
     
@@ -61,29 +286,11 @@
     </item>
     
     <item>
-      <title>Wolfgang Heidrich</title>
-      <link>https://fuqiangx.github.io/authors/wolfgang-heidrich/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/wolfgang-heidrich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Felix Heide</title>
       <link>https://fuqiangx.github.io/authors/felix-heide/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/felix-heide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hadi Amata</title>
-      <link>https://fuqiangx.github.io/authors/hadi-amata/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/hadi-amata/</guid>
       <description></description>
     </item>
     
@@ -160,29 +367,11 @@
     </item>
     
     <item>
-      <title>Kaizhang Kang</title>
-      <link>https://fuqiangx.github.io/authors/kaizhang-kang/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/kaizhang-kang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Liangxun Ou</title>
       <link>https://fuqiangx.github.io/authors/liangxun-ou/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/liangxun-ou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yidan Zheng</title>
-      <link>https://fuqiangx.github.io/authors/yidan-zheng/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/yidan-zheng/</guid>
       <description></description>
     </item>
     
@@ -259,15 +448,6 @@
     </item>
     
     <item>
-      <title>Xinge Yang</title>
-      <link>https://fuqiangx.github.io/authors/xinge-yang/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/xinge-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kunyi Wang</title>
       <link>https://fuqiangx.github.io/authors/kunyi-wang/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
@@ -291,15 +471,6 @@
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/qiang-fu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yunfeng Nie</title>
-      <link>https://fuqiangx.github.io/authors/yunfeng-nie/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/yunfeng-nie/</guid>
       <description></description>
     </item>
     
@@ -345,15 +516,6 @@
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://fuqiangx.github.io/authors/xinbin-cheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiong Dun</title>
-      <link>https://fuqiangx.github.io/authors/xiong-dun/</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://fuqiangx.github.io/authors/xiong-dun/</guid>
       <description></description>
     </item>
     
